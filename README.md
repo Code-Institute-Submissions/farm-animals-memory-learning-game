@@ -54,3 +54,8 @@ The font will be simple and easy to read due to the user being a child looking t
 ----
 
 ## Credits
+* from this website i got the image of all the farm animals used in the game, images used in the game have been cut out from this image: https://i.pinimg.com/originals/7a/e5/65/7ae565b3348527003ab1e0c0e17747fa.png
+* The image on the back of the cards has come from here: https://www.clipartmax.com/png/middle/27-270409_cartoon-farmer-no-background.png
+* The background game image came from: https://www.clipartmax.com/png/middle/27-270409_cartoon-farmer-no-background.png
+
+----
