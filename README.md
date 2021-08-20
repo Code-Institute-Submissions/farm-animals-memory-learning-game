@@ -32,4 +32,25 @@ The font will be simple and easy to read due to the user being a child looking t
 
 ### Wireframes
 ![wireframe of the farm animals memory game](assets/img/Farm-animals-wireframe.png)
+
+----
  
+ ### Languages and technologies used
+ * HTML
+ * CSS
+* Javascript
+* GitHub
+* Git
+* Photoshop
+* Balsamiq
+* Google fonts
+
+----
+## Testing
+
+----
+## Deployment
+
+----
+
+## Credits
