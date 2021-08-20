@@ -18,3 +18,18 @@
 ----
 
 ### Colour Scheme
+ • Background will be a cartoon of a farm and a fall back of a white background, the farm will have green grass, blue sky and a red barn/house
+ * the card colour will contrast against this background, the colour will be grey with a black border
+ * the text colour will contrast against the grey and will be black
+
+### Font Styles
+
+The font will be simple and easy to read due to the user being a child looking to learn the animals names, so, the font will be in Open sans
+
+### Image styles
+
+* the Images will be cartoons due to the simplicity and universal understanding cartoons achieve.
+
+### Wireframes
+![wireframe of the farm animals memory game](assets/img/Farm-animals-wireframe.png)
+ 
