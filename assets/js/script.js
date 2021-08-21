@@ -7,3 +7,12 @@ for(let i = 0; i < cards.length; ++i) {
 
 let firstCard = null;
 let secondCard = null;
+
+function onCardClicked(card){
+    if(firstCard == null)
+        handleFirstCard(card);
+    else if(secondCard == null)
+        handleSecondCard(card);
+    else
+    handleFlipBoth();
+}
