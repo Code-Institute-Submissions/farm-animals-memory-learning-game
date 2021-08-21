@@ -42,3 +42,12 @@ function handleFlipBoth() {
     firstCard = null;
     secondCard = null;
 }
+
+function isFace(Card) {
+    return card.classList.contains('face');
+}
+
+function flip(card) {
+    card.children[1].classList.toggle('hidden');
+    card.classList.toggle('face');
+}
