@@ -35,3 +35,10 @@ function handleSecondCard(card) {
     else
         secondCard = Card;
 }
+
+function handleFlipBoth() {
+    flip(firstCard);
+    flip(secondCard);
+    firstCard = null;
+    secondCard = null;
+}
