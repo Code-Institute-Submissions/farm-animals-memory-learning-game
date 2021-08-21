@@ -16,3 +16,22 @@ function onCardClicked(card){
     else
     handleFlipBoth();
 }
+
+function handleFirstCard(card) {
+    if(isFace(Card))
+        return;
+
+    firstCard = card;
+    flip(card);
+}
+
+function handleSecondCard(card) {
+    if(isFace(Card))
+        return;
+
+    flip(card);
+    if(firstCard.classList[1] === card.classList[1])
+        firstCard = null;
+    else
+        secondCard = Card;
+}
