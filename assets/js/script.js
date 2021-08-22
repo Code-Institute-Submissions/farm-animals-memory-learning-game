@@ -14,7 +14,7 @@ function onCardClicked(card){
     else if(secondCard == null)
         handleSecondCard(card);
     else
-    handleFlipBoth();
+        handleFlipBoth();
 }
 
 function handleFirstCard(card) {
