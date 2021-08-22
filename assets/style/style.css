@@ -85,7 +85,7 @@ body {
     text-align: center;
 }
 
-.score+time {
+.scores {
     font-family: 'open-sans', sans-serif;
     padding: 75px;
     position: relative;
