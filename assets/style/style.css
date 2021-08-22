@@ -31,8 +31,8 @@ body {
 }
 
 .memory-cards {
-    height: calc(25% - 10px);
-    width: calc(33.333% - 10px);
+    width: calc(25% - 10px);
+    height: calc(33.333% - 10px);
     margin: 5px;
     position: relative;
     transform: scale(1);
@@ -54,4 +54,60 @@ body {
 
 .hidden {
     visibility: hidden;
+}
+
+/* button */
+
+.restart {
+    background-color: lightskyblue;
+    text-align: center;
+    border: solid 2px steelblue;
+    border-radius: 8px;
+    padding: 25px;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+}
+
+/* counters */
+
+.timer {
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+    width: 150px;
+    text-align: center;
+}
+
+.countdown {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+
+.scores {
+    font-family: 'open-sans', sans-serif;
+    padding: 75px;
+    position: relative;
+    top: 100px;
+    left: -120px;
+    text-align: center;
+    height: 400px;
+    background-color: rgb(220,220,220);
+    border-radius: 10px;
+    border: solid 2px rgb(169,169,169); 
+}
+
+.score {
+    width: 150px;
+    text-align: center;
+}
+
+span {
+    font-size: 25px;
+    text-align: center;
+}
+
+.number {
+    text-align: center;
 }
